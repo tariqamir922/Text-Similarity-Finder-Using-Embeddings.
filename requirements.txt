@@ -1,0 +1,16 @@
+# Core dependencies for Text Similarity Finder using Embeddings
+# Pretrained sentence transformer models
+sentence-transformers>=3.0.0
+
+# Numerical operations and cosine similarity calculation
+scikit-learn>=1.3.0
+numpy>=1.24.0
+
+# Deep learning framework (PyTorch CPU is sufficient)
+torch>=2.0.0
+
+# Interactive web user interface
+gradio>=4.0.0
+
+# Testing framework
+pytest>=7.0.0
